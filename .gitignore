@@ -1,0 +1,5 @@
+/bank_chatbot
+/app/appsettings.json
+.vscode/launch.json
+/app/__pycache__
+test.ipynb

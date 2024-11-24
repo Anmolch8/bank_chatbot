@@ -1,0 +1,5 @@
+-python version -> 3.11.9
+ local path -> C:\Users\Dell\AppData\Local\Programs\Python\Python311
+-Python local Environment -> bank_chatbot
+
+
